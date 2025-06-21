@@ -2,7 +2,7 @@
 
 👨‍🎓 Étudiant en droit privé passionné par la technologie
 💻 Actuellement en appentissage du développement web (HTML, CSS, Javascript)
-⚖ Intéressé par les legaltechs, les plateforme open source et l'IA éthique
+⚖ Intéressé par les legaltechs, les plateformes open source et l'IA éthique
 🌍 Basé à Abidjan, Côte d'Ivoire
 📩 Contact : arsenemicheladja@gmail.com
 ---
