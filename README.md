@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arsenemdev/arsenemdev/main/assets/banner-github-profile.png" alt="Banner GitHub Arsène Michel Adja" />
+  <img src="https://github.com/arsenemdev/arsenemdev/blob/main/banner-github-profile.png?raw=true"/>
 </p>
 
 <h1 align="center">👨‍⚖️ Arsène Michel Adja</h1>
